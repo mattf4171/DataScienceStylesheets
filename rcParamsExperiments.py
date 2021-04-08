@@ -4,6 +4,7 @@
 Created on Thu Apr  8 13:14:49 2021
 
 @author: matthewfernandez
+Description: Explore some different stylesheets for a histogram and line plot
 """
 
 import pandas as pd
